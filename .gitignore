@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+.vscode
+release/
+bin/
+data/
+*.code-workspace
+*.exe
+src*
+conf.*.yaml
